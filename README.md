@@ -1,2 +1,2 @@
 # ipad-game-thing
-An iPag game thing
+An iPad game thing
